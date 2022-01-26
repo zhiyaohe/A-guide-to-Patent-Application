@@ -1,2 +1,2 @@
-# A-guide-to-Patent-Application
- A Guide to Patent Application, 4th Edition, Zhiyao He
+# the-guide-to-patent-application
+ The Guide to Patent Application, 4th Edition, Zhiyao He
